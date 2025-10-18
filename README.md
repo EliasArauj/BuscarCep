@@ -27,12 +27,13 @@ Ideal para quem deseja aprender sobre consumo de APIs REST, manipulação de DOM
 🔗 Acesse a aplicação online:
 👉 coloque-aqui-o-link-do-seu-GitHub-Pages
 
-⚙️ Funcionalidades
-
 ✨ Busca automática de endereço via API ViaCEP
 
-🚀 Feedback visual animado de sucesso e erro
-💎 Labels flutuantes com animação suave
-📱 Design 100% responsivo com Bootstrap 5
-🎨 Gradientes animados e sombras sutis
-🧠 Validação de CEP (8 dígitos) e mensagens dinâmicas
+## ⚙️ Funcionalidades
+
+🚀 Feedback visual animado de sucesso e erro<br>
+💎 Labels flutuantes com animação suave<br>
+📱 Design 100% responsivo com Bootstrap 5<br>
+🎨 Gradientes animados e sombras sutis<br>
+🧠 Validação de CEP (8 dígitos) e mensagens dinâmicas<br>
+
