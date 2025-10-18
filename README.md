@@ -11,15 +11,18 @@
 </p>
 🧭 Sobre o Projeto
 
-Consulta de Endereço - ViaCEP é uma aplicação web interativa e responsiva que permite ao usuário digitar um CEP e automaticamente obter as informações de Rua, Bairro, Cidade e Estado, consumindo os dados da API ViaCEP.
+Consulta de Endereço - ViaCEP é uma aplicação web moderna, interativa e totalmente responsiva desenvolvida para facilitar a busca de endereços a partir de um CEP.
 
-O design moderno e as animações suaves tornam a experiência intuitiva e agradável, ideal para estudos de consumo de APIs, manipulação de DOM e UX com JavaScript.
+Ao digitar o CEP, o sistema consome a API pública do ViaCEP e retorna automaticamente informações completas como Rua, Bairro, Cidade e Estado, oferecendo uma experiência fluida e intuitiva ao usuário.
+
+O projeto combina tecnologia e design, com animações suaves, efeitos visuais dinâmicos e uma interface minimalista inspirada em conceitos de UX/UI modernos.
+Ideal para quem deseja aprender sobre consumo de APIs REST, manipulação de DOM e boas práticas em JavaScript com uma interface elegante e responsiva.
 
 💫 Demonstração
-
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center;">
+  
 ![BuscarCEP](https://github.com/user-attachments/assets/89098eff-1245-46f1-8796-a90f0f2d2b20)
-
-💡 Dica: adicione uma imagem preview.png mostrando o formulário preenchendo automaticamente o endereço!
+</div>
 
 🔗 Acesse a aplicação online:
 👉 coloque-aqui-o-link-do-seu-GitHub-Pages
