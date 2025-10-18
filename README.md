@@ -25,7 +25,7 @@ Ideal para quem deseja aprender sobre consumo de APIs REST, manipulação de DOM
 </div>
 
 🔗 Acesse a aplicação online:
-👉 coloque-aqui-o-link-do-seu-GitHub-Pages
+👉 Link em breve
 
 ✨ Busca automática de endereço via API ViaCEP
 
