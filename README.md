@@ -41,13 +41,13 @@ Quem deseja aprender sobre **integração com APIs REST**, **boas práticas em J
 
 
 💫 Demonstração
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center;">
+<div align="left" style="display: flex; flex-wrap: wrap; justify-content: center;">
   
 ![BuscarCEP](https://github.com/user-attachments/assets/89098eff-1245-46f1-8796-a90f0f2d2b20)
 </div>
 
 🔗 Acesse a aplicação online:
-👉 Link em breve
+👉 [Acessar site](https://eliasarauj.github.io/BuscarCep)
 
 ✨ Busca automática de endereço via API ViaCEP
 
